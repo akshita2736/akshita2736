@@ -16,8 +16,8 @@ B.Tech CSE-AI @ IGDTUW (Batch of 2028)
 
 ## 🧠 About Me
 
-- Computer Science and Engineering student specializing in Artificial Intelligence at IGDTUW, Delhi **(CGPA: 9.08)**.
-- Interested in AI security, reliable LLM applications, machine learning, and software engineering.
+- Third-year B.Tech student in Computer Science and Engineering, specializing in Artificial Intelligence at Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi. **CGPA: 9.08/10**
+- Interested in machine learning, reliable LLM applications, AI security and software engineering.
 - Currently strengthening my foundations in Data Structures & Algorithms and Object-Oriented Programming.
 - AI Trainee at Sedulity Solutions & Technologies and ML Research Intern at Anveshan Foundation, IGDTUW.
 

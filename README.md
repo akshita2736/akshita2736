@@ -75,7 +75,7 @@ A machine learning research project on early hypothyroidism detection among wome
 - Extended the research model into a web application supporting manual input and PDF laboratory report uploads.
 - Built a FastAPI backend for ML inference and Groq-powered clinical summaries, with automated hormone-value extraction using pdfplumber.
 
-[Live Demo](https://hypothyroid-screening.vercel.app/) · [View Research](https://ieeexplore.ieee.org/document/11441503)
+[View Research](https://ieeexplore.ieee.org/document/11441503) · [Live Demo](https://hypothyroid-screening.vercel.app/) · [View Repository](https://github.com/akshita2736/hypothyroid-screening)
 
 ---
 
